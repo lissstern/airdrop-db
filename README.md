@@ -1,6 +1,7 @@
 # airdrop-db
 A set of known airdrop eligible addresses lists
 
+* **[Optimism OP 3](https://github.com/ethereum-optimism/op-analytics/blob/main/reference_data/address_lists/op_airdrop_3_simple_list.csv)** - 31,870 addresses, 2023-09-18
 * **[Connext](https://github.com/connext/community-sybil-reports/tree/main)** - 62,070 addresses, 2023-08-24
 * **[Granary](https://github.com/The-Granary/airdrop-list)** - 17,237 addresses, 2023-07-22
 * **[Arbitrum](https://www.nansen.ai/research/an-on-chain-distribution-model-for-the-arbitrum-community)** - 625,143 addresses, 2023-02-06
