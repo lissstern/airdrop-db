@@ -1,6 +1,7 @@
 # airdrop-db
 A set of known airdrop eligible addresses lists
 
+* **[Starknet](https://github.com/starknet-io/provisions-data)** - 1,027,095 addresses, 2024-02-20
 * **[Open Dollar (ODG)](https://github.com/cupOJoseph/odg-airdrop/tree/main)** - 78,604 addresses, 2024-01-18
 * **[Optimism OP 3](https://github.com/ethereum-optimism/op-analytics/blob/main/reference_data/address_lists/op_airdrop_3_simple_list.csv)** - 31,870 addresses, 2023-09-18
 * **[Connext](https://github.com/connext/community-sybil-reports/tree/main)** - 62,070 addresses, 2023-08-24
