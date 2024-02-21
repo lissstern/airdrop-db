@@ -3,6 +3,7 @@ A set of known airdrop eligible addresses lists
 
 * **[Optimism OP 4](https://github.com/ethereum-optimism/op-analytics/blob/main/reference_data/address_lists/op_airdrop_4_simple_list.csv)** - 22,998 addresses, 2024-02-20
 * **[Starknet](https://github.com/starknet-io/provisions-data)** - 1,027,095 addresses, 2024-02-20
+* **[Shutter DAO](https://github.com/shutter-network/shutter-dao-claiming-app-data/tree/main/vestings/assets/1)** - 11,271 addresses, 2024-01-24
 * **[Open Dollar (ODG)](https://github.com/cupOJoseph/odg-airdrop/tree/main)** - 78,604 addresses, 2024-01-18
 * **[Optimism OP 3](https://github.com/ethereum-optimism/op-analytics/blob/main/reference_data/address_lists/op_airdrop_3_simple_list.csv)** - 31,870 addresses, 2023-09-18
 * **[Connext](https://github.com/connext/community-sybil-reports/tree/main)** - 62,070 addresses, 2023-08-24
